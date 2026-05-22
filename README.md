@@ -6,9 +6,8 @@ This project implements a Databricks-based transportation analytics pipeline usi
 The pipeline ingests raw transportation and city data, performs data cleaning and transformation, and generates business-ready analytical datasets for reporting and decision-making.
 
 ## Architecture
-- Bronze Layer → Raw data ingestion
-- Silver Layer → Cleaned and transformed data
-- Gold Layer → Business analytics and reporting
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/7b275930-71ce-47d7-9c26-dc8ca5c8b3b4" />
+
 
 ## Technologies Used
 - Databricks
